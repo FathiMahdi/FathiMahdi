@@ -25,11 +25,11 @@
 
 I am an embedded systems engineer.
 
-- :telescope: I’m working as an Embedded Systems Engineer and contributing to sensor aquisition and machine learning algorithms .
+- :telescope: I’m working as an Embedded Systems Engineer and contributing to sensor aquisition and machine learning algorithms
 
-- :seedling: Exploring Scientific Writing: [![Research Badge](https://img.shields.io/badge/-FATHI-green?style=flat)](https://www.researchgate.net/profile/Fathi-Mahdi-Elsiddig-Haroun)
+- :seedling: Exploring Scientific Writing:    [![Research Badge](https://img.shields.io/badge/-FATHI-green?style=flat)](https://www.researchgate.net/profile/Fathi-Mahdi-Elsiddig-Haroun)
 
-- :zap: In my free time, I am compititive programer: [![Atcoder Badge](https://img.shields.io/badge/-FATHI-red?style=flat&)](https://atcoder.jp/)
+- :zap: In my free time, I am compititive programmer:   [![Atcoder Badge](https://img.shields.io/badge/-FATHI-red?style=flat&)](https://atcoder.jp/)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FATHI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fathi-mahdi-a4a4bb14b)
  
