@@ -32,7 +32,7 @@ I am embedded systems engineer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: In my free time, I am compititive programer.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/fathi-mahdi-a4a4bb14b/?originalSubdomain=my")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FATHI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fathi-mahdi-a4a4bb14b)
 
 
 
