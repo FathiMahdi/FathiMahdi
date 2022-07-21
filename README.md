@@ -27,9 +27,9 @@ I am an embedded systems engineer.
 
 - :telescope: I’m working as an Embedded Systems Engineer and contributing to sensor aquisition and machine learning algorithms .
 
-- :seedling: Exploring Scientific Writing: [![Research Badge](https://img.shields.io/badge/-FATHI-green?style=flat)](https://www.researchgate.net/profile/Fathi-Mahdi-Elsiddig-Haroun).
+- :seedling: Exploring Scientific Writing: [![Research Badge](https://img.shields.io/badge/-FATHI-green?style=flat)](https://www.researchgate.net/profile/Fathi-Mahdi-Elsiddig-Haroun)
 
-- :zap: In my free time, I am compititive programer: [![Atcoder Badge](https://img.shields.io/badge/-FATHI-red?style=flat&)](https://atcoder.jp/).
+- :zap: In my free time, I am compititive programer: [![Atcoder Badge](https://img.shields.io/badge/-FATHI-red?style=flat&)](https://atcoder.jp/)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FATHI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fathi-mahdi-a4a4bb14b)
  
@@ -38,6 +38,8 @@ I am an embedded systems engineer.
 ### :hammer_and_wrench: Languages and Tools :
 <div id="languages" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40">&nbsp;
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" title="C++" alt="C++" width="40" height="40">&nbsp;
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" title="Bash" alt="Bash" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40">&nbsp;
@@ -49,3 +51,11 @@ I am an embedded systems engineer.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FathiMahdi&theme=gruvbox)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiMahdi&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+### :fire: My Stats :
+
+
+
