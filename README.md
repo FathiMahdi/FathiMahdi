@@ -26,6 +26,8 @@
 
 <di vid="languages" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
