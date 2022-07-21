@@ -50,6 +50,6 @@ I am an embedded systems engineer.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FathiMahdi&theme=gruvbox)](https://git.io/streak-stats)
-<a></a>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiMahdi&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
