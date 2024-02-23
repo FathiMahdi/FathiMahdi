@@ -11,9 +11,9 @@
   <a href="https://www.youtube.com/channel/UCsDkG3pd7UkyxDf4hFfBevw/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.researchgate.net/profile/Fathi-Mahdi-Elsiddig-Haroun">
+<!--   <a href="https://www.researchgate.net/profile/Fathi-Mahdi-Elsiddig-Haroun">
     <img src="https://img.shields.io/badge/Researchgate-green?style=for-the-badge&logoColor=white" alt="RG Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <div id="veiw" align="center">
