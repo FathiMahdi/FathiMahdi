@@ -36,7 +36,7 @@ I am an embedded systems engineer.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FATHI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fathi-mahdi-a4a4bb14b)
   
-- :Blogger: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FATHI-yellow?style=flat&logo=Blogger&logoColor=white)](https://www.fathimahdielsiddig.com)
+- 💻 My blog: [![Blogger Badge](https://img.shields.io/badge/-FATHI-yellow?style=flat&logo=Blogger&logoColor=white)](https://www.fathimahdielsiddig.com)
  
 ---
 
