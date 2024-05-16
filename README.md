@@ -35,6 +35,8 @@ I am an embedded systems engineer.
 - :zap: In my free time, I am compititive programmer:   [![Atcoder Badge](https://img.shields.io/badge/-FATHI-red?style=flat&)](https://atcoder.jp/)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FATHI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fathi-mahdi-a4a4bb14b)
+  
+- :website:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FATHI-blue?style=flat&logo=Blogger&logoColor=white)](https://www.fathimahdielsiddig.com)
  
 ---
 
