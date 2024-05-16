@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Researchgate-green?style=for-the-badge&logoColor=white" alt="RG Badge"/>
   </a>
     <a href="https://www.fathimahdielsiddig.com">
-    <img src="https://img.shields.io/npm/v/npm.svg?logo=npm"/>
+    <img src="https://img.shields.io/website/blogger.svg?logo=bloger"/>
   </a>
 </div>
 
