@@ -67,5 +67,5 @@ I am an embedded systems engineer.
 
 <br>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FathiMahdi)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FathiMahdi\&layout=compact)
 
