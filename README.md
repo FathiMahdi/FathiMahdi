@@ -59,7 +59,7 @@ I am an embedded systems engineer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/vim-original.svg" title="vim" alt="vim" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/verilog/verilog-original.svg" title="Git" **alt="verilog" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/verilog/Git-original.svg" title="Git" **alt="verilog" width="40" height="40"/>
 </div>
 
 ---
