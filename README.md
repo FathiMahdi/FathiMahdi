@@ -65,3 +65,7 @@ I am an embedded systems engineer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiMahdi&theme=gruvbox&langs_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FathiMahdi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
