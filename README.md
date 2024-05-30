@@ -52,13 +52,13 @@ I am an embedded systems engineer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" **alt="matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" **alt="Raspberrypi" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" **alt="arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="ubuntu" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-wordmark.svg" title="ssh" alt="ssh" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/vim-plain.svg" title="vim" alt="vim" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="ubuntu" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" **alt="gcc" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-wordmark.svg" title="ssh" **alt="ssh" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/vim-plain.svg" title="vim" **alt="vim" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/verilog/Git-original.svg" title="Git" **alt="verilog" width="40" height="40"/>
 </div>
 
