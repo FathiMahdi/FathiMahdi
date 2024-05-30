@@ -63,7 +63,7 @@ I am an embedded systems engineer.
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiMahdi&theme=gruvbox&langs_count=20&layout=donut-vertical&exclude_repo=AMS_Beacon&exclude_repo=AMS_Beacon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiMahdi&theme=gruvbox&langs_count=20&layout=donut-vertical&exclude_repo=AMS_Beacon)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
