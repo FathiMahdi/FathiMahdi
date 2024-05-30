@@ -59,6 +59,8 @@ I am an embedded systems engineer.
 ---
 
 ### :fire: My Stats :
+![FathiMahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FathiMahdi&show_icons=true&theme=dark)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FathiMahdi&theme=gruvbox)](https://git.io/streak-stats)
 
 <br>
